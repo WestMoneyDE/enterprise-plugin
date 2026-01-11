@@ -12,7 +12,10 @@
       "name": "enterprise-universe",
       "description": "Business Management Plugin für HubSpot, Stripe & Invoicing",
       "version": "1.0.0",
-      "source": "."
+      "source": {
+        "type": "local",
+        "path": "."
+      }
     }
   ]
 }
